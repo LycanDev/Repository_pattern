@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">api_example</string>
+
+    <!--Errors-->
+    <string name="login_failed">Login failed</string>
+    <string name="profile_failed">Profile failed</string>
+</resources>
